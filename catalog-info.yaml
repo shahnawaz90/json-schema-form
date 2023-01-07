@@ -1,9 +1,0 @@
-apiVersion: backstage.io/v1alpha1
-kind: Component
-metadata:
-  name: json-schema-form
-  annotations:
-    github.com/project-slug: shahnawaz90/json-schema-form
-spec:
-  type: other
-  lifecycle: unknown
